@@ -19,7 +19,7 @@ This integration allows you to alert users in xMatters after an alert goes off i
 * [honeycomb.png](/honeycomb.png) - honeycomb.io logo
 
 # How it works
-This integration uses an HTTP trigger from a honeycomb.io alert and creates an xMatters alert from it.
+This integration uses an HTTP recipient from a honeycomb.io trigger and creates an xMatters alert from it.
 
 
 # Installation
